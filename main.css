@@ -1,0 +1,12 @@
+body{
+  background-color:#4272d4;
+}
+div{
+  background-color:#3dd3f5;
+  width:1000px;
+  height:auto;
+}
+table{
+  border-color: pink;
+  border-width:5px;
+}
